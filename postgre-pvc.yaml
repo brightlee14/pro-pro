@@ -13,7 +13,7 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   storageClassName: manual
   hostPath:
-    path: "/work/project/postgres/volume"
+    path: "/mnt/d/code/project/postgres/volume"
     type: DirectoryOrCreate
 
 ---
