@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/brightlee14/proDev.git
+    repoURL: https://github.com/brightlee14/pro-pro.git
     targetRevision: HEAD
     path: .
   destination:
