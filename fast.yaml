@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: fastapi
-        image: brightlee14/hello:13
+        image: brightlee14/hello:16
         ports:
         - containerPort: 8000
         env:
